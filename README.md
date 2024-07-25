@@ -14,7 +14,7 @@ This repository contains a solution for the Scytale test task. The task involves
 
    git clone https://github.com/ThunderBird022/Scytale_Test_Task.git
 
-   create .env with your gitgub token 
+   create .env with your github token 
 
    run code in main.ipynb step-by-step
 
